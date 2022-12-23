@@ -14,19 +14,27 @@
     refType: branch
     isFile: false
     path: ''
-    title: revature-curriculum/pep-gitpod-workspace - cli-test
-    revision: 985ac929891e0997bfb6bbed19176b2d9bfe26ce
+    title: akilan-revature/pep-gitpod-workspace - cli-test
+    revision: 393104c4da5b7d7ec68ea3e1900ff8406ed1da91
     repository:
-      cloneUrl: https://github.com/revature-curriculum/pep-gitpod-workspace.git
+      cloneUrl: https://github.com/akilan-revature/pep-gitpod-workspace.git
       host: github.com
       name: pep-gitpod-workspace
-      owner: revature-curriculum
+      owner: akilan-revature
       private: false
-    normalizedContextURL: https://github.com/revature-curriculum/pep-gitpod-workspace/tree/cli-test
+      fork:
+        parent:
+          cloneUrl: https://github.com/revature-curriculum/pep-gitpod-workspace.git
+          host: github.com
+          name: pep-gitpod-workspace
+          owner: revature-curriculum
+          private: false
+    normalizedContextURL: https://github.com/akilan-revature/pep-gitpod-workspace/tree/cli-test
     checkoutLocation: pep-gitpod-workspace
+    upstreamRemoteURI: https://github.com/revature-curriculum/pep-gitpod-workspace.git
   :gitpod_workspace:
-    :workspace_id: revaturecur-pepgitpodwo-b7p5wwjjggr
-    :workspace_url: https://revaturecur-pepgitpodwo-b7p5wwjjggr.ws-us80.gitpod.io
+    :workspace_id: akilanrevat-pepgitpodwo-hcy5r03jnpb
+    :workspace_url: https://akilanrevat-pepgitpodwo-hcy5r03jnpb.ws-us80.gitpod.io
     :repo_root: "/workspace/pep-gitpod-workspace"
     :git_user_email: akilan.arasu@revature.com
     :git_user_name: akilan-revature
