@@ -8,6 +8,6 @@ public class ArraySum {
      */
     public int sum(int[] arr){
 
-        return 1 + 2 + 3;
+        return 1 + 2 + 3 + 4 + 5;
     }
 }
