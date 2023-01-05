@@ -1,16 +1,43 @@
 ---
 :lab_name: pep-labs
-:repo_path: "/home/akilan/my-projects/revature-projects/revpro-cli/pep-labs"
+:repo_path: "/workspace/revpro-cli/pep-labs"
 :previous_lab: 
 :current_lab: 
 :origin_remote: https://github.com/akilan-revature/pep-labs
-:repo_clone_folder: "/home/akilan/my-projects/revature-projects/revpro-cli/pep-labs"
+:repo_clone_folder: "/workspace/revpro-cli/pep-labs"
 :github_username: akilan-revature
-:git_name: Akilan Arasu
+:git_name: akilan-revature
 :git_email: akilan.arasu@revature.com
 :gitpod:
-  :gitpod_workspace_context: {}
-  :gitpod_workspace: {}
+  :gitpod_workspace_context:
+    ref: cli-test
+    refType: branch
+    isFile: false
+    path: ''
+    title: akilan-revature/pep-gitpod-workspace - cli-test
+    revision: 0e83a4d6f1dc8a8c4f84095ecb0dbc42aacde121
+    repository:
+      cloneUrl: https://github.com/akilan-revature/pep-gitpod-workspace.git
+      host: github.com
+      name: pep-gitpod-workspace
+      owner: akilan-revature
+      private: false
+      fork:
+        parent:
+          cloneUrl: https://github.com/revature-curriculum/pep-gitpod-workspace.git
+          host: github.com
+          name: pep-gitpod-workspace
+          owner: revature-curriculum
+          private: false
+    normalizedContextURL: https://github.com/akilan-revature/pep-gitpod-workspace/tree/cli-test
+    checkoutLocation: pep-gitpod-workspace
+    upstreamRemoteURI: https://github.com/revature-curriculum/pep-gitpod-workspace.git
+  :gitpod_workspace:
+    :workspace_id: akilanrevat-pepgitpodwo-znegnvrfpli
+    :workspace_url: https://akilanrevat-pepgitpodwo-znegnvrfpli.ws-us81.gitpod.io
+    :repo_root: "/workspace/pep-gitpod-workspace"
+    :git_user_email: akilan.arasu@revature.com
+    :git_user_name: akilan-revature
 :progress:
   :count_labs_total: 96
   :count_labs_passed: 0
