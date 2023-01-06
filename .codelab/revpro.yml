@@ -1,18 +1,5 @@
 ---
 :lab_name: pep-labs
-<<<<<<< HEAD
-:repo_path: "/home/akilan/my-projects/revature-projects/revpro-cli/pep-labs"
-:previous_lab: Lists
-:current_lab: Lists
-:origin_remote: https://github.com/akilan-revature/pep-labs
-:repo_clone_folder: "/home/akilan/my-projects/revature-projects/revpro-cli/pep-labs"
-:github_username: akilan-revature
-:git_name: Akilan Arasu
-:git_email: akilan.arasu@revature.com
-:gitpod:
-  :gitpod_workspace_context: {}
-  :gitpod_workspace: {}
-=======
 :repo_path: "/workspace/revpro-cli/pep-labs"
 :previous_lab: 
 :current_lab: Lists
@@ -51,22 +38,14 @@
     :repo_root: "/workspace/pep-gitpod-workspace"
     :git_user_email: akilan.arasu@revature.com
     :git_user_name: akilan-revature
->>>>>>> origin/Lists
 :progress:
   :count_labs_total: 96
   :count_labs_passed: 0
   :count_tests_total: 361
-<<<<<<< HEAD
   :count_tests_passed: 5
 :progress_test:
   :count_tests_total: 361
   :count_tests_passed: 5
-=======
-  :count_tests_passed: 0
-:progress_test:
-  :count_tests_total: 361
-  :count_tests_passed: 0
->>>>>>> origin/Lists
   Start:
     :Week: 1
     :Order: 1
@@ -352,7 +331,6 @@
     :Order: 4
     :Type: lab
     :count_tests: 11
-<<<<<<< HEAD
     :count_tests_passed: 5
     :tests:
       createListTest1: 1
@@ -360,15 +338,6 @@
       getSizeTest2: 1
       addItemTest1: 1
       addItemTest2: 1
-=======
-    :count_tests_passed: 0
-    :tests:
-      createListTest1: 0
-      getSizeTest1: 0
-      getSizeTest2: 0
-      addItemTest1: 0
-      addItemTest2: 0
->>>>>>> origin/Lists
       getItemTest1: 0
       getItemTest2: 0
       removeFromListTest1: 0
